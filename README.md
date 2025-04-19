@@ -63,10 +63,19 @@
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilSalunke1625&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapnilSalunke1625&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=SwapnilSalunke1625&theme=tokyonight)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SawyerSun/sawyersun/master/images/loading.gif" width="60px" alt="Loading..." />
+</p>
 
----
+### 🔥 Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilSalunke1625&bg_color=0d1117&color=61dafb&line=00bcd4&point=1db954&area=true&hide_border=true)
+
+### 📈 Stats & Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilSalunke1625&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilSalunke1625&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=SwapnilSalunke1625&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 > ✨ _Always building. Always learning. Let’s make 2025 count!_
