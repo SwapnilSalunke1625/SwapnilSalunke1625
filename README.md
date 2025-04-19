@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Swapnil Salunke</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center"> 💾 Booting into the Cloud...</h1>
+<h3 align="center">Swapnil Salunke — Software Engineer Bridging Code & Cloud ☁️ || Location: India 🌍</h3>
+
+
 
 ---
 
-### 📍 About Me:
-- 🚀 Currently working on projects like **TradeConnect** and **FarmFresh**
-- 🧠 Learning: **MERN Stack** and **AWS Cloud**
-- 💬 Ask me about: `React`, `MongoDB`, `JavaScript`, `UI/UX Design`
-- 📫 Reach me at: [swapnilsalunke@example.com](mailto:swapnilsalunke@example.com)
-- ⚡ Fun fact: **Consistency is my key to success!**  
-  No days off until I achieve my dream. 2025 is the year of growth and dedication!
+🧩 Who Am I?
+💻 Currently engineering solutions in projects like LumeoFlow & Gig-Fusion
 
----
+🌱 On a continuous learning journey: MERN Stack | Google Cloud (GCP) | Java DSA
+
+🧑‍🎨 I love blending tech with creativity — whether it's crafting elegant UIs or designing scalable systems
+
+💡 Wanna geek out on React, MongoDB, UI/UX, or JavaScript? I'm just a ping away.
+
+📥 Let's connect: swapnilsalunke@example.com
+
+🎯 Fun Insight: I'm not just coding — I'm training like an athlete for tech.
+2025 is my build phase. No shortcuts. Just pure hustle.
 
 ### 🌐 Connect with me:
 [![Behance](https://img.shields.io/badge/Behance-0057FF?logo=behance&style=for-the-badge)](https://behance.net/)
