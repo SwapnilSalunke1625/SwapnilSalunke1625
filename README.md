@@ -18,10 +18,11 @@
 
 ## 🌐 Socials:
 
-[![Behance](https://img.shields.io/badge/Behance-0057FF?logo=behance&style=for-the-badge)](https://behance.net/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/SwapnilSalunke01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/swapnilsalunke01)
+[![X](https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge)](https://twitter.com/swapnil23084)
+
 
 ---
 
