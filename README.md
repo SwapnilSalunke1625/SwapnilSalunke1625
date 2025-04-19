@@ -28,15 +28,15 @@
 ## 🧰 Tech Stack:
 
 ### 🧑‍💻 Programming Languages:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-F8B800?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python)
 
 ### 🌐 Frontend Development:
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=material-ui)
@@ -44,9 +44,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
 ### 🔙 Backend Development:
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![MongoAtlas](https://img.shields.io/badge/MongoAtlas-47A248?style=for-the-badge&logo=mongodb)
 
@@ -55,6 +55,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-FF6A00?style=for-the-badge&logo=cloudinary)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
 
 
 
