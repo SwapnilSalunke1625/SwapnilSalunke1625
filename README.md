@@ -1,6 +1,8 @@
-<h1 >💾 Booting into the Cloud...</h1>
-<h3 >Swapnil Salunke — Software Engineer Bridging Code & Cloud ☁️</h3>
-<p >Location: India 🌍</p>
+<h1>💾 Booting into the Cloud...</h1>
+<h3>Swapnil Salunke — Software Engineer Bridging Code & Cloud ☁️</h3>
+<p>Location: India 🌍</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -18,15 +20,14 @@
 
 ## 🌐 Socials:
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/SwapnilSalunke01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/swapnilsalunke01)
 [![X](https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge)](https://twitter.com/swapnil23084)
 
-
 ---
 
 ## 🧰 Tech Stack:
+
 ### 🧑‍💻 Programming Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,9 +57,19 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
 
+### 🔗 LumeoFlow
+> AI-powered video analytics platform with GCP backend and React frontend.
 
+![Tech](https://img.shields.io/badge/GCP-blue?style=flat-square&logo=googlecloud) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+
+### 🔗 Gig-Fusion
+> MERN-based freelance task system with secure login & payment modules.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
 
 ---
 
@@ -78,5 +89,6 @@
   <img src="https://streak-stats.demolab.com?user=SwapnilSalunke1625&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SwapnilSalunke1625&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 > ✨ _Always building. Always learning. Let’s make 2025 count!_
