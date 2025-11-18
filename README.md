@@ -1,5 +1,5 @@
 <h1>💾 Booting into the Cloud...</h1>
-<!-- Marquee --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Aspiring+Software+Engineer;DSA+%26+Backend+Focused+Developer;Turning+Ideas+Into+Scalable+Systems" /> </p> <h2 align="center">Swapnil Salunke — Software Engineer Bridging Code & Cloud ☁️</h2> <p align="center">📍 India 🌍</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=00bcd4&style=flat" /> </p>
+<!-- Marquee --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Aspiring+Software+Engineer;DSA+%26+Backend+Focused+Developer;Turning+Ideas+Into+Scalable+Systems" /> </p> <h2 align="center">Swapnil Salunke</h2> <p align="center">📍 India 🌍</p> <p align="center"> <img 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat)
 
