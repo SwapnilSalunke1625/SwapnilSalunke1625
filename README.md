@@ -9,14 +9,13 @@
 
 ## 🧩 About Me:
 
-- 🛠️ Currently engineering solutions in projects like **LumeoFlow** & **Gig-Fusion**
-- 🌱 Learning: **MERN Stack**, **Google Cloud (GCP)**, and **Java DSA**
-- 🎨 Passionate about combining **tech + creativity** — from sleek UIs to scalable systems
-- 💬 Ask me about: `MERN-Stack`, `GCP-Cloud`, `DSA`, `Java`
-- 📫 Reach me at: [salunkeswapnil145@gmail.com](mailto:salunkeswapnil145@gmail.com)
-- 🎯 Fun Insight: **I'm not just coding — I'm training myself like an athlete for the world of tech.**  
-  2025 is my **build phase**. No shortcuts. Just pure hustle.
 
+  
+Software Engineer specializing in Full-Stack Development (MERN).
+Experienced in building scalable applications on cloud platforms.
+Strong problem-solving foundation with a system design mindset.
+Continuously learning and adapting to new technologies.
+Reach me at: [swapnilsalunke35@gmail.com](mailto:swapnilsalunke35@gmail.com)
 ---
 
 ## 🧰 Tech Stack:
