@@ -25,8 +25,11 @@
 ### 🧑‍💻 Programming Languages:
 
 ![Java](https://img.shields.io/badge/Java-8%2F10-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-8.5%2F10-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-7%2F10-2F6F8F?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
