@@ -16,6 +16,7 @@ Experienced in building scalable applications on cloud platforms.
 Strong problem-solving foundation with a system design mindset.
 Continuously learning and adapting to new technologies.
 Reach me at: [swapnilsalunke35@gmail.com](mailto:swapnilsalunke35@gmail.com)
+
 ---
 
 ## 🧰 Tech Stack:
