@@ -107,7 +107,7 @@
 - Customized and extended **scalable open-source architecture** for business-ready expansion
 - Improved **user engagement and sales by 45%**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
