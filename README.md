@@ -19,14 +19,6 @@
 
 ---
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/SwapnilSalunke01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/swapnilsalunke01)
-[![X](https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge)](https://twitter.com/swapnil23084)
-
----
-
 ## 🧰 Tech Stack:
 
 ### 🧑‍💻 Programming Languages:
