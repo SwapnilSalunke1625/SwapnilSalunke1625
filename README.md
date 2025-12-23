@@ -1,9 +1,21 @@
-<hh4 align="center" style="font-size:32px; font-weight:900;">
-  "Consistency beats talent."
+<h1 align="center">
+  Consistency beats talent.
 </h1>
-<!-- Marquee --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Aspiring+Software+Engineer;DSA+%26+Backend+Focused+Developer;Turning+Ideas+Into+Scalable+Systems" /> </p> <h2 align="center">Swapnil Salunke</h2> <p align="center">📍 India 🌍</p> <p align="center"> <img 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cloud+Enthusiast+☁️;Aspiring+Software+Engineer;DSA+%26+Backend+Focused;Turning+Ideas+Into+Scalable+Systems" 
+    alt="Typing SVG"
+  />
+</p>
+
+<h2 align="center">Swapnil Salunke</h2>
+
+<p align="center">📍 India 🌍</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -87,6 +99,7 @@
 - Customized and extended **scalable open-source architecture** for business-ready expansion
 - Improved **user engagement and sales by 45%**
 
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
