@@ -1,15 +1,17 @@
-<h1 align="center">
-  🚀 Consistency beats talent.
-</h1>
+<h4>
+  🚀 Built with discipline.
+</h4>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer+(MERN);Cloud+%26+Backend+Focused;Turning+Ideas+Into+Scalable+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer+(MERN);Backend+developer;Turning+Ideas+Into+Scalable+Systems"
     alt="Typing SVG"
   />
 </p>
 
-<h2 align="center">Swapnil Salunke</h2>
+<h3 align="center">
+  <span style="color:#00C4FF;">Swapnil Salunke</span>
+</h3>
 
 <p align="center">
   📍 India 🌍
