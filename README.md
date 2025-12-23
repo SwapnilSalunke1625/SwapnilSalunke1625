@@ -1,21 +1,27 @@
 <h1 align="center">
-  Consistency beats talent.
+  🚀 Consistency beats talent.
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Cloud+Enthusiast+☁️;Aspiring+Software+Engineer;DSA+%26+Backend+Focused;Turning+Ideas+Into+Scalable+Systems" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer+(MERN);Cloud+%26+Backend+Focused;Turning+Ideas+Into+Scalable+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <h2 align="center">Swapnil Salunke</h2>
 
-<p align="center">📍 India 🌍</p>
+<p align="center">
+  📍 India 🌍
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=SwapnilSalunke1625&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
+
 
 ---
 
