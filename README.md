@@ -68,21 +68,29 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 &nbsp;&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🔗 LumeoFlow
-> AI-powered video analytics platform with GCP backend and React frontend.
+### 🔗 ByteForge (Startup)
+**Frontend Developer Intern**  
+*Oct 2025 – Dec 2025*
 
-![Tech](https://img.shields.io/badge/GCP-blue?style=flat-square&logo=googlecloud) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+> Worked on a production-grade e-commerce platform using modern frontend and backend technologies.
 
-### 🔗 Gig-Fusion
-> MERN-based freelance task system with secure login & payment modules.
+- Built a **responsive e-commerce application** using the **Evershop open-source platform**
+- Developed features using **Node.js** and **TypeScript**
+- Integrated **high-performance REST APIs** for real-time product updates
+- Customized and extended **scalable open-source architecture** for business-ready expansion
+- Improved **user engagement and sales by 45%**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
+
 
 ---
 
