@@ -23,12 +23,10 @@
 ## 🧰 Tech Stack:
 
 ### 🧑‍💻 Programming Languages:
-**Java — 8/10**  
-![Java](https://img.shields.io/badge/Java-8%2F10-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Java](https://img.shields.io/badge/Java-8%2F10-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
 **JavaScript — 8.5/10**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-8.5%2F10-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 **Python — 7/10**  
 ![Python](https://img.shields.io/badge/Python-7%2F10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
