@@ -9,14 +9,14 @@
 
 ## 🧩 About Me:
   
-💻 Software Engineer specializing in Full-Stack Development (MERN)
-☁️ Experienced in building scalable, cloud-ready applications
-🧠 Strong foundation in problem-solving with a system design mindset
-⚙️ Focused on clean architecture, performance, and scalability
-🌱 Continuously learning and adapting to modern technologies & best practices
-🚀 Hands-on experience with real-world, production-oriented projects
-🤝 Open to collaboration, internships, and software engineering opportunities
-📫 Reach me at: swapnilsalunke35@gmail.com
+- 💻 Software Engineer specializing in Full-Stack Development (MERN)
+- ☁️ Experienced in building scalable, cloud-ready applications
+- 🧠 Strong foundation in problem-solving with a system design mindset
+- ⚙️ Focused on clean architecture, performance, and scalability
+- 🌱 Continuously learning and adapting to modern technologies & best practices
+- 🚀 Hands-on experience with real-world, production-oriented projects
+- 🤝 Open to collaboration, internships, and software engineering opportunities
+- 📫 Reach me at: swapnilsalunke35@gmail.com
 
 ---
 
