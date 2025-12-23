@@ -33,9 +33,9 @@
 
 
 
-## **🧰 Tech Stack**
+## **🧰 DEVELOPMENT**
 
-### **📚 Libraries & Frameworks**
+### **Libraries & Frameworks**
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 &nbsp;&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,18 +46,14 @@
 &nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
----
-
-### **🗄️ Databases**
+### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 &nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### **🛠️ Tools**
+### **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 &nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -66,9 +62,7 @@
 &nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### **☁️ Cloud Platforms**
+### **Cloud Platforms**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 &nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
