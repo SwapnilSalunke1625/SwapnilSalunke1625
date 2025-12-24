@@ -27,7 +27,7 @@
 
 ---
 
-## 🧩 About Me:
+## About Me:
   
 - 💻 Software Engineer specializing in Full-Stack Development (MERN)
 - ☁️ Experienced in building scalable, cloud-ready applications
@@ -53,7 +53,7 @@
 
 
 
-## **🧰 DEVELOPMENT**
+## **DEVELOPMENT**
 
 ### **Libraries & Frameworks**
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -121,7 +121,7 @@
   <img src="https://raw.githubusercontent.com/SawyerSun/sawyersun/master/images/loading.gif" width="60px" alt="Loading..." />
 </p>
 
-### 🔥 Contribution Graph:
+### Contribution Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilSalunke1625&bg_color=0d1117&color=61dafb&line=00bcd4&point=1db954&area=true&hide_border=true)
 
 ### 📈 Stats & Languages:
